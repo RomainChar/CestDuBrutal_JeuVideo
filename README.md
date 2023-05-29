@@ -1,4 +1,4 @@
-Ce projet est un jeu vidéo de stratégie faisant s'affronter 2 joueurs.
+Ce projet, réalisé début 2022, est un jeu vidéo de stratégie faisant s'affronter 2 joueurs.
 
 Le jeu vidéo a été développé en java, une interface graphique a été développée pour le fonctionnement du projet, mais n'était pas l'objectif initial.
 L'ensemble du projet est documenté avec javadoc.
